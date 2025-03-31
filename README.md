@@ -1,2 +1,2 @@
-# b-l-m-sonu-al-mas-3
+# bolum-sonu-calismasi-3
 bu repo patika eğitiminde verilen ödev için
